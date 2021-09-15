@@ -22,3 +22,5 @@ A simple todo kind of android application.
 
 Using Shared preference to save value weather user visits app first time or not,
 based on value onboarding screens will be shown to user.
+
+## NOTE - Only Android App is built and tested due to machine limitation.

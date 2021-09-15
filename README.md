@@ -4,7 +4,7 @@ A simple todo kind of android application.
 
 ## Getting Started
 
-###*Flutter widgets used in this app,*
+### *Flutter widgets used in this app,*
 
     - PageView
     - ListView
@@ -21,5 +21,5 @@ A simple todo kind of android application.
     - RichText
 
 
-### Using Shared preference to save value weather user visits app first time or not,
+Using Shared preference to save value weather user visits app first time or not,
 based on value onboarding screens will be shown to user.

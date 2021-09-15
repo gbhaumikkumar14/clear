@@ -18,7 +18,6 @@ class ClearApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Future<SharedPreferences> _prefs = SharedPreferences.getInstance();
     return MaterialApp(
       home: FutureBuilder<bool>(
         future: getFirstTimeFromSharedPref(),
